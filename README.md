@@ -81,5 +81,5 @@ TOPSIS provides a structured approach to selecting the best pre-trained NLP mode
 ---
 
 ## Author
-**Name:** <RACHIT>  
-**Roll Number:** <102303495>  
+**Name:** RACHIT  
+**Roll Number:** 102303495  
